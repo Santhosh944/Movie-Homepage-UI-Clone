@@ -14,13 +14,13 @@
 
 ## 📸 Preview
 
-<img src="img/screenshot.png" alt="Netflix Homepage Clone Screenshot" width="100%" />
+<img src="![Screenshot 2025-06-20 151829](https://github.com/user-attachments/assets/4175da37-6b04-4e52-af3a-58100113b9ba)" alt="Netflix Homepage Clone Screenshot" width="100%" />
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Demo
 
-🔗 [Click here to see it live](https://santhosh944.github.io/Netflix-homepage-clone/)
+🔗 [Click here to see the clone](https://drive.google.com/file/d/1m3VOQUIIuQUIXgWCfvkAEbIXGQYeNJW1/view?usp=drive_link)
 📂 Or, open `index.html` in your browser to try it locally.
 
 ---
