@@ -14,7 +14,7 @@
 
 ## 📸 Preview
 
-<img src="![Screenshot 2025-06-20 151829](https://github.com/user-attachments/assets/4175da37-6b04-4e52-af3a-58100113b9ba)" alt="Netflix Homepage Clone Screenshot" width="100%" />
+![Hero Preview](![Screenshot 2025-06-20 151829](https://github.com/user-attachments/assets/4175da37-6b04-4e52-af3a-58100113b9ba))
 
 ---
 
